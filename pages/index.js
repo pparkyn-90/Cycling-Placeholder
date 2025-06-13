@@ -28,33 +28,33 @@ export default function Home() {
         </p>
         <div style={{ marginTop: '2rem', textAlign: 'left' }}>
           <h2 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Featured Deals</h2>
-          <ul>
-            <li>
-              <a href="https://www.amazon.co.uk/dp/B08L5VYZX7?tag=pkaff-21" target="_blank">
-                Shimano RC3 Cycling Shoes – £89.99
-              </a>
-            </li>
-            <li>
-              <a href="https://www.amazon.co.uk/dp/B07YSPG3H1?tag=pkaff-21" target="_blank">
-                ROCKBROS Bike Light Set – £26.99
-              </a>
-            </li>
-            <li>
-              <a href="https://www.amazon.co.uk/dp/B08BJJFZ5K?tag=pkaff-21" target="_blank">
-                Giro Syntax MIPS Helmet – £79.95
-              </a>
-            </li>
-            <li>
-              <a href="https://www.amazon.co.uk/dp/B079Z8Y5NB?tag=pkaff-21" target="_blank">
-                Kryptonite D-lock + Cable – £49.99
-              </a>
-            </li>
-            <li>
-              <a href="https://www.amazon.co.uk/dp/B082PZSPW6?tag=pkaff-21" target="_blank">
-                Castelli Entrata V Jersey – £59.00
-              </a>
-            </li>
-          </ul>
+         <ul>
+  <li>
+    <a href="https://www.amazon.co.uk/dp/B09DL7NN59?tag=pkaff-21" target="_blank">
+      RockBros Cycling Sunglasses – £19.99
+    </a>
+  </li>
+  <li>
+    <a href="https://www.amazon.co.uk/dp/B09R5MXYPF?tag=pkaff-21" target="_blank">
+      BAONUOR Winter Cycling Balaclava – £10.99
+    </a>
+  </li>
+  <li>
+    <a href="https://www.amazon.co.uk/dp/B07G2X3ZDL?tag=pkaff-21" target="_blank">
+      Garmin Edge 530 GPS Bike Computer – £229.99
+    </a>
+  </li>
+  <li>
+    <a href="https://www.amazon.co.uk/dp/B01MQYLZ8X?tag=pkaff-21" target="_blank">
+      Kryptonite Evolution Mini 7 D-Lock + Cable – £49.99
+    </a>
+  </li>
+  <li>
+    <a href="https://www.amazon.co.uk/dp/B08F2YN6Y6?tag=pkaff-21" target="_blank">
+      Giro Register MIPS Helmet – £59.95
+    </a>
+  </li>
+</ul>
         </div>
       </main>
     </>
