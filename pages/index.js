@@ -35,12 +35,12 @@ export default function Home() {
       </a>
     </li>
     <li>
-      <a href="https://www.amazon.co.uk/dp/B07YSPG3H1?tag=pkaff-21" target="_blank">
+      <a href="https://www.amazon.co.uk/dp/B07YSPG3H1" target="_blank">
         ROCKBROS Bike Light Set – £26.99
       </a>
     </li>
     <li>
-      <a href="https://www.amazon.co.uk/dp/B08BJJFZ5K?tag=pkaff-21" target="_blank">
+      <a href="https://www.amazon.co.uk/dp/B08BJJFZ5K" target="_blank">
         Giro Syntax MIPS Helmet – £79.95
       </a>
     </li>
