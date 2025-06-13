@@ -30,8 +30,8 @@ export default function Home() {
   <h2 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Featured Deals</h2>
   <ul>
     <li>
-      <a href="https://www.amazon.co.uk/dp/B08L5VYZX7?tag=pkaff-21" target="_blank">
-        Shimano RC3 Cycling Shoes – £89.99
+      <a href="https://amzn.to/3FThBaV" target="_blank">
+        Shimano SH-RC3 Fahrradschuhe Schwarz - £99.99
       </a>
     </li>
     <li>
