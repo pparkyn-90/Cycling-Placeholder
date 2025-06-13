@@ -30,7 +30,7 @@ export default function Home() {
   <h2 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Featured Deals</h2>
   <ul>
     <li>
-      <a href="https://amzn.to/3FThBaV" target="_blank">
+      <a href="https://www.amazon.co.uk/SHIMANO-RC300-SPD-SL-Shoes-Black/dp/B08HYVVP84?crid=2X32ZMHUGI71Z&dib=eyJ2IjoiMSJ9.uWsGAdrCz-g8T32iFojzk45bEREJYq2QdWjUSNLXOf0Fbx-p-1FzjXS0Kp-MqAvzY1OYi1fQf3psd6XLgpmkSIQiGB9d5l4c9ffk1TPnfc68FGeUwiCBzou2ggSdlb5GcqdNfg1hinPJQRKTCuUz-TcU_yIToTW6gEIXrnRhkUEIfmcZN_ZfXzsLucMTm9JHVabCQej6vYzxyW8FXfhuhdNQ_ZzRSQ0xKmPGQJ3WILiT5Biouy3aPKPrX8eFxvGitjg5wyPj9PVU_EQhJJ4p05Qh7qcBc1vTJa01DZke4tY.6D3F5DGg52J607VHQ3d7_46gr0d9Vmxi4F_HerlFVYY&dib_tag=se&keywords=Shimano%2BRC3%2BCycling%2BShoes&qid=1749841846&sprefix=shimano%2Brc3%2Bcycling%2Bshoes%2Caps%2C121&sr=8-10&ufe=app_do%3Aamzn1.fos.0fa28f01-6fca-4422-af4e-d52d5ad71bfe&th=1&psc=1&linkCode=ll1&tag=pkaff-21&linkId=1b18b72e02b1c3228b0320c2a60d7e91&language=en_GB&ref_=as_li_ss_tl" target="_blank">
         Shimano SH-RC3 Fahrradschuhe Schwarz - £99.99
       </a>
     </li>
