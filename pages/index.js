@@ -30,28 +30,8 @@ export default function Home() {
           <h2 style={{ fontSize: '1.5rem', marginBottom: '0.5rem' }}>Featured Deals</h2>
          <ul>
   <li>
-    <a href="https://amzn.to/3ToZH2O" target="_blank">
-      RockBros Cycling Sunglasses – £30
-    </a>
-  </li>
-  <li>
-    <a href="https://www.amazon.co.uk/dp/B09R5MXYPF?tag=pkaff-21" target="_blank">
-      BAONUOR Winter Cycling Balaclava – £10.99
-    </a>
-  </li>
-  <li>
-    <a href="https://www.amazon.co.uk/dp/B07G2X3ZDL?tag=pkaff-21" target="_blank">
-      Garmin Edge 530 GPS Bike Computer – £229.99
-    </a>
-  </li>
-  <li>
-    <a href="https://www.amazon.co.uk/dp/B01MQYLZ8X?tag=pkaff-21" target="_blank">
-      Kryptonite Evolution Mini 7 D-Lock + Cable – £49.99
-    </a>
-  </li>
-  <li>
-    <a href="https://www.amazon.co.uk/dp/B08F2YN6Y6?tag=pkaff-21" target="_blank">
-      Giro Register MIPS Helmet – £59.95
+    <a href="https://amzn.to/45He8qD" target="_blank">
+      Amazon Best Deals!!!
     </a>
   </li>
 </ul>
