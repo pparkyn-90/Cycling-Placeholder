@@ -33,9 +33,11 @@ export default function Home() {
     <a href="https://amzn.to/45He8qD" target="_blank">
       Amazon Best Deals!
     </a>
+            <p>
     <a href="https://amzn.to/4e7R4Ds" target="_blank">
       Best cycling deals on today!!!
     </a>
+            </p>
   </li>
 </ul>
         </div>
