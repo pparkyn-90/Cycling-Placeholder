@@ -45,7 +45,7 @@ export default function Home() {
       </Head>
       <div
         style={{
-          backgroundImage: 'url("https://images.unsplash.com/photo-1508779018996-4a005eadd9a6?auto=format&fit=crop&w=1600&q=80")',
+          backgroundImage: 'url("/hero.jpg")',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           height: '300px',
