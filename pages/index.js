@@ -12,7 +12,7 @@ const deals = [
   {
     name: "Cordless Strimmer",
     discount: "53% off",
-    price: "£42.49",
+    Now: "£42.49",
     expiry: "Limited time",
     image: "https://m.media-amazon.com/images/I/71Evs5lakEL._AC_SX569_.jpg",
     link: "https://amzn.to/4l3rf9H"
