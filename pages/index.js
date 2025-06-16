@@ -1,30 +1,29 @@
 import Head from 'next/head';
 import { useState, useEffect } from 'react';
-
 const deals = [
   {
-    name: "Today's Cycling Deals",
-    discount: "Up to 40% off",
-    price: "£229.99",
-    expiry: "Ends in 2 days",
-    image: "https://m.media-amazon.com/images/I/71Uwo9fKJPL._AC_SL1500_.jpg",
-    link: "https://amzn.to/3SOcQCt"
+    name: "Shark Cordless Stick Vacuum Cleaner",
+    discount: "36% off",
+    Now: "£179.00",
+    expiry: "soon!",
+    image: "https://m.media-amazon.com/images/I/51q49k+71GL._AC_SY300_SX300_.jpg",
+    link: "https://amzn.to/3TnWVLg"
   },
   {
-    name: "Today's Deals",
-    discount: "30% off",
-    price: "£59.95",
-    expiry: "Ends in 5 days",
-    image: "https://m.media-amazon.com/images/I/81Q7uEZxEXL._AC_SL1500_.jpg",
-    link: "https://amzn.to/4kM4CqI"
+    name: "Cordless Strimmer",
+    discount: "53% off",
+    price: "£42.49",
+    expiry: "Limited time",
+    image: "https://m.media-amazon.com/images/I/71Evs5lakEL._AC_SX569_.jpg",
+    link: "https://amzn.to/4l3rf9H"
   },
   {
-    name: "Today's Cycling deals",
-    discount: "50% off",
-    price: "£19.99",
-    expiry: "Ends in 1 day",
-    image: "https://m.media-amazon.com/images/I/61WbL6Fv9qL._AC_SL1500_.jpg",
-    link: "https://amzn.to/3SOcQCt"
+    name: "Shark FlexBreeze TableMate Cordless Fan",
+    discount: "34% off",
+    price: "£99.00",
+    expiry: "Ends soon",
+    image: "https://m.media-amazon.com/images/I/61ijbs5QVwL._AC_SX679_.jpg",
+    link: "https://amzn.to/45ZvtuJ"
   }
 ];
 
