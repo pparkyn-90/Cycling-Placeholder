@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Cycle Deals</title>
+        <title>Amazon Deals</title>
       </Head>
       <div
         style={{
@@ -48,7 +48,7 @@ export default function Home() {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           height: '300px',
-          color: 'black',
+          color: 'white',
           display: 'flex',
           alignItems: 'center',
           justifyContent: 'center',
@@ -56,10 +56,10 @@ export default function Home() {
           fontWeight: 'bold'
         }}
       >
-        Cycle Deals
+        Amazon Deals
       </div>
       <main style={{ fontFamily: 'Arial', padding: '2rem', textAlign: 'center' }}>
-        <h2 style={{ color: '#001F54' }}>Top Cycling Deals</h2>
+        <h2 style={{ color: '#001F54' }}>Top Deals</h2>
         <div style={{ maxWidth: '400px', margin: '2rem auto', border: '2px solid #ccc', padding: '1rem', borderRadius: '8px', background: '#f0f8ff' }}>
           <img src={deals[current].image} alt={deals[current].name} style={{ maxWidth: '100%', height: '200px', objectFit: 'contain' }} />
           <h3>{deals[current].name}</h3>
