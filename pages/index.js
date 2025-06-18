@@ -40,7 +40,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Amazon Deals</title>
+        <title></title>
       </Head>
       <div
         style={{
