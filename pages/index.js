@@ -56,7 +56,7 @@ export default function Home() {
           fontWeight: 'bold'
         }}
       >
-        Amazon Deals
+     
       </div>
       <main style={{ fontFamily: 'Arial', padding: '2rem', textAlign: 'center' }}>
         <h2 style={{ color: '#001F54' }}>Top Deals</h2>
