@@ -43,21 +43,29 @@ export default function Home() {
         <title></title>
       </Head>
       <div
-        style={{
-          backgroundImage: 'url("/hero.jpg")',
-          backgroundSize: 'cover',
-          backgroundPosition: 'center',
-          height: '300px',
-          color: 'white',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          fontSize: '2rem',
-          fontWeight: 'bold'
-        }}
-      >
-     
-      </div>
+  style={{
+    backgroundImage: 'url("/hero.jpg")',
+    backgroundSize: 'cover',
+    backgroundPosition: 'center',
+    height: '300px',
+    color: 'white',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    textAlign: 'center',
+    padding: '0 1rem'
+  }}
+>
+  <h1 style={{
+    fontSize: 'clamp(1.5rem, 6vw, 3rem)',
+    fontWeight: 'bold',
+    color: 'white',
+    textShadow: '1px 1px 4px rgba(0,0,0,0.5)',
+    margin: 0
+  }}>
+    Cycle Deals
+  </h1>
+</div>
       <main style={{ fontFamily: 'Arial', padding: '2rem', textAlign: 'center' }}>
         <h2 style={{ color: '#001F54' }}>Top Deals</h2>
         <div style={{ maxWidth: '400px', margin: '2rem auto', border: '2px solid #ccc', padding: '1rem', borderRadius: '8px', background: '#f0f8ff' }}>
