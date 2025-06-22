@@ -73,6 +73,16 @@ export default function Home() {
           </a>
         </div>
       </main>
+                <footer style={{
+  backgroundColor: '#f8f8f8',
+  textAlign: 'center',
+  padding: '1rem',
+  fontSize: '0.9rem',
+  color: '#555',
+  marginTop: '2rem'
+}}>
+  As an Amazon Associate I earn from qualifying purchases.
+</footer>
     </>
   );
 }
