@@ -47,7 +47,7 @@ export default function Home() {
     backgroundImage: 'url("/hero.jpg")',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
-    height: '300px',
+    height: '500px',
     color: 'white',
     display: 'flex',
     alignItems: 'center',
@@ -63,7 +63,6 @@ export default function Home() {
     textShadow: '1px 1px 4px rgba(0,0,0,0.5)',
     margin: 0
   }}>
-    Cycle Deals
   </h1>
 </div>
       <main style={{ fontFamily: 'Arial', padding: '2rem', textAlign: 'center' }}>
