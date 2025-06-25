@@ -80,6 +80,36 @@ export default function Home() {
           </a>
         </div>
       </main>
+
+                
+<section style={{
+  backgroundColor: '#f0f8ff',
+  padding: '2rem',
+  marginTop: '2rem',
+  borderTop: '2px solid #ccc'
+}}>
+  <h2 style={{
+    fontSize: '1.75rem',
+    marginBottom: '1rem',
+    color: '#001F54',
+    textAlign: 'center'
+  }}>
+    About Us
+  </h2>
+  <p style={{
+    maxWidth: '800px',
+    margin: '0 auto',
+    fontSize: '1rem',
+    lineHeight: '1.6',
+    color: '#333',
+    textAlign: 'center'
+  }}>
+    <strong>Amazon Deals</strong> is your go-to destination for discovering the biggest bargains across Amazon’s cycling range. 
+    Whether you're after top-quality bikes, helmets, shoes, or accessories — we search daily to highlight the best discounts so you don’t have to. 
+    Our mission is simple: help you save money while riding smarter.
+  </p>
+</section>
+                
                 <footer style={{
   backgroundColor: '#f8f8f8',
   textAlign: 'center',
