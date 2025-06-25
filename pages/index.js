@@ -44,7 +44,7 @@ export default function Home() {
       </Head>
       <div
   style={{
-    backgroundImage: 'url("/hero.jpg")',
+    backgroundImage: 'url("/Hero.png")',
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     height: '514px',
