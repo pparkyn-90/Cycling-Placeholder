@@ -104,9 +104,7 @@ export default function Home() {
     color: '#333',
     textAlign: 'center'
   }}>
-    <strong>Amazon Deals</strong> is your go-to destination for discovering the biggest bargains across Amazon’s cycling range. 
-    Whether you're after top-quality bikes, helmets, shoes, or accessories — we search daily to highlight the best discounts so you don’t have to. 
-    Our mission is simple: help you save money while riding smarter.
+    <strong>Amazon Deals</strong> Our mission is to help you find the best deals on Amazon, ensuring you're getting the most value for your money and stretching it as far as it can go.
   </p>
 </section>
                 
